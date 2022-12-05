@@ -3,9 +3,9 @@
   "version": "2.0.0",
   "private": true,
   "dependencies": {
-    "@thirdweb-dev/react": "^2.3.0",
-    "@thirdweb-dev/sdk": "^2.2.11",
-    "ethers": "^5.6.6",
+    "@thirdweb-dev/react": "^2.6.5",
+    "@thirdweb-dev/sdk": "^2.3.37",
+    "ethers": "^5.6.9",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "5.0.0"
